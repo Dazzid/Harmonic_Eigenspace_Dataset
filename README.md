@@ -4,7 +4,7 @@ Dataset and experiment materials accompanying the paper:
 
 **"Harmonic Eigenspace: A Web-based Application for Navigating and Composing Microtonal Harmony"**
 
-Submitted to the *Journal of New Music Research* (JNMR).
+Submitted to a peer-reviewed journal (details omitted for blind review).
 
 ---
 
@@ -107,15 +107,25 @@ All participants provided informed consent. The study collected only age, gender
 
 ## Web Application
 
-The interactive Harmonic Eigenspace application is available at:
-
-🔗 [https://dazzid.github.io/ANIMA_Harmonic_Eigenspace/](https://dazzid.github.io/ANIMA_Harmonic_Eigenspace/)
+The interactive Harmonic Eigenspace application URL is omitted for blind review and will be included upon publication.
 
 ---
 
 ## License
 
-This dataset is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material with appropriate attribution.
+This dataset is released under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (Attribution, NonCommercial, NoDerivatives).
+
+You are free to share and redistribute the material in any medium or format, under the following terms:
+
+- **Attribution** — You must give appropriate credit and cite the accompanying paper.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — You may not modify, transform, or build upon the dataset. The data must be preserved and redistributed as-is.
+
+---
+
+## Data Protection
+
+All participants provided informed consent under GDPR (2016/679). The dataset contains only anonymized responses with no personally identifiable information. Full data protection details are available from the authors upon request.
 
 ---
 
